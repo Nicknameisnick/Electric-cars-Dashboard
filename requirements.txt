@@ -5,5 +5,5 @@ folium
 numpy
 streamlit
 scikit-learn
-streamlit-folium
-streamlit-option-menu
+streamlit_folium
+streamlit_option_menu
